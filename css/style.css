@@ -129,7 +129,7 @@ body {
      font-size: 0px;
      line-height: 1.4;
      font-family: Helvetica, Arial, sans-serif;
-     background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+     background: url(../../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
     background-size: cover;
     position: relative;
 
@@ -141,7 +141,7 @@ html body {
 }
 
 p {
-  margin-top: 50px;
+  margin-top: 40px;
   padding-left: 40px;
 }
 
@@ -169,7 +169,9 @@ ul li {
   font-size: 30px;
   color: #ece24e;
   font-weight: bold;
-  padding-top: 30px;
+  letter-spacing: 1px;
+  padding-top: 12px;
+  text-align: center;
 }
 
 #feets {
